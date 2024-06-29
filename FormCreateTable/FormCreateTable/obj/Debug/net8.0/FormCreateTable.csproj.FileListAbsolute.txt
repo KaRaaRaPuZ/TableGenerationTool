@@ -1,0 +1,14 @@
+C:\Users\anoni\Desktop\SqlProject\FormCreateTable\FormCreateTable\bin\Debug\net8.0\FormCreateTable.exe
+C:\Users\anoni\Desktop\SqlProject\FormCreateTable\FormCreateTable\bin\Debug\net8.0\FormCreateTable.deps.json
+C:\Users\anoni\Desktop\SqlProject\FormCreateTable\FormCreateTable\bin\Debug\net8.0\FormCreateTable.runtimeconfig.json
+C:\Users\anoni\Desktop\SqlProject\FormCreateTable\FormCreateTable\bin\Debug\net8.0\FormCreateTable.dll
+C:\Users\anoni\Desktop\SqlProject\FormCreateTable\FormCreateTable\bin\Debug\net8.0\FormCreateTable.pdb
+C:\Users\anoni\Desktop\SqlProject\FormCreateTable\FormCreateTable\obj\Debug\net8.0\FormCreateTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anoni\Desktop\SqlProject\FormCreateTable\FormCreateTable\obj\Debug\net8.0\FormCreateTable.AssemblyInfoInputs.cache
+C:\Users\anoni\Desktop\SqlProject\FormCreateTable\FormCreateTable\obj\Debug\net8.0\FormCreateTable.AssemblyInfo.cs
+C:\Users\anoni\Desktop\SqlProject\FormCreateTable\FormCreateTable\obj\Debug\net8.0\FormCreateTable.csproj.CoreCompileInputs.cache
+C:\Users\anoni\Desktop\SqlProject\FormCreateTable\FormCreateTable\obj\Debug\net8.0\FormCreateTable.dll
+C:\Users\anoni\Desktop\SqlProject\FormCreateTable\FormCreateTable\obj\Debug\net8.0\refint\FormCreateTable.dll
+C:\Users\anoni\Desktop\SqlProject\FormCreateTable\FormCreateTable\obj\Debug\net8.0\FormCreateTable.pdb
+C:\Users\anoni\Desktop\SqlProject\FormCreateTable\FormCreateTable\obj\Debug\net8.0\FormCreateTable.genruntimeconfig.cache
+C:\Users\anoni\Desktop\SqlProject\FormCreateTable\FormCreateTable\obj\Debug\net8.0\ref\FormCreateTable.dll
